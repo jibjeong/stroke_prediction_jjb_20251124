@@ -64,6 +64,11 @@ htmlcov/
 *.h5
 *.joblib
 
+# Build artifacts
+*.egg-info/
+build/
+dist/
+
 # Data (optional - remove if you want to track data)
 # Uncomment if you don't want to track generated data
 analysis_*/data/figures/*.png
